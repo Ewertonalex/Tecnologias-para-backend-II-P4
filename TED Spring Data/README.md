@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://play-lh.googleusercontent.com/7hOg_ahIxf6fVS5uFOqb65vuJN5BarfxAb5r6X20z1KevKVPfGXX7GcfwlVrMBETFaTl" width=220>
+<img src="https://images.even3.com.br/inF8kKGcVUrayARbI7PYUKiLCuA=/fit-in/250x250/smart/even3.blob.core.windows.net/logos/LOGO-UNIESP-HORIZONTAL-VERMELHA-FUNDO-TRANSPARENTE.dcb5743371da43b9ab15.png" width=420>
 
 TED, referente a disciplina de Tecnologias para Back-end II,<br>
 da faculdade <strong>UNIESP</strong>, ministrada pelo <strong>Professor Renan Klinsmann</strong>.<br>
